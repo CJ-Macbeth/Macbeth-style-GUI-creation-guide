@@ -41,6 +41,8 @@ Action Names should aim to be one, two, or three words long, but may be longer.<
 
 ## Action Keybind Hint
 An Action Keybind Hint describes the keybind attached to the Action, if any.<br>
+The keybind described by an Action Keybind Hint must be active when the Action is visible.<br>
+Keybinds may be replaced/change depending on the Action Submenu the user has navigated to.<br>
 A keybind should be written in plain text, with each key referenced visually separated, and ordered according to the order in which to press them (respecting the language text direction of the application).<br>
 
 <img src="Images/Action%20Keybind%20Hint.svg" style="width:50%;" />
