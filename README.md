@@ -60,6 +60,6 @@ Action Elements are advanced parameters for the Action, best applied to configur
 
 ## Preferances Action
 A good best practice is to bind a Preferances Action Menu opening Action at the bottom of the Actions Interface (either floating or at the end of the list), where users can manipulate settings based on application customization.<br>
-Customization options should be contained in individual configuration files, to make the full range of customizations made by users portable, and to amke it easy to switch between configurations. If so, all settings based on such configuraton files should be contained within the same Action Submenu, which should also visually identify which configuration file is in use, and which are available.<br>
+Customization options should be contained in individual configuration files, to make the full range of customizations made by users portable, and to make it easy to switch between configurations. If so, all settings based on such configuraton files should be contained within the same Action Submenu, which should also visually identify which configuration file is in use, and which are available.<br>
 
 <img src="Images/Preferances%20Action.svg" style="width:50%;" />
