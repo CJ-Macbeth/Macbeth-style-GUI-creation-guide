@@ -14,7 +14,7 @@ In a 3D modeling application, this would be the 3D viewport.<br>
 The Actions Interface is the panel where all currently active actions are accessible/visible.<br>
 It does not necessarily have to be present on a certain side of the screen, be tethered to a particular location, or be visible at all times.<br>
 It may contain a function to minimize or hide it.<br>
-If it is minimized/hidden, an action or keybind must be displayed somewhere on-screen with the functionality to maximize/unhide it.<br>
+If it is minimized/hidden, an action or keybind should be displayed somewhere on-screen with the functionality to maximize/unhide it.<br>
 
 <img src="Images/Actions%20Interface.svg" style="width:50%;" />
 
