@@ -20,7 +20,6 @@ If it is minimized/hidden, an action or keybind should be displayed somewhere on
 
 ## Action Box
 Action boxes contain information and/or functionality relating to an individual Action or Action Submenu.<br>
-An Action Box may contain any number of items that may be implemented within an Action Box.<br>
 The best practice minimum for an Action Box is to contain a Symbol, Name, Keybind, and Onclick action.<br>
 An action box with any items should also have a name.<br>
 
@@ -49,8 +48,8 @@ All keybinds should be represented by Actions for the duration that they are act
 <img src="Images/Action%20Keybind%20Hint.svg" style="width:50%;" />
 
 ## Action Description
-An Action Description is a pain text description of the functionality/effect offered by the Action.<br>
-Action Descriptions are best applied only when the Action functionality/effect is not intuittive, visually noticeable, or easily understood based on the name alone.<br>
+An Action Description is a plain text description of the functionality/effect offered by the Action.<br>
+Action Descriptions are best applied when the Action functionality/effect is not intuittive, visually noticeable, or easily understood based on the name alone.<br>
 
 <img src="Images/Action%20Description.svg" style="width:50%;" />
 
